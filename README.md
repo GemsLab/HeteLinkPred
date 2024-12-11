@@ -62,7 +62,7 @@ Please cite our paper if you make use of this code in your own work:
     title={On the Impact of Feature Heterophily on Link Prediction with Graph Neural Networks}, 
     author={Zhu, Jiong and  Li, Gaotang and Yang, Yao-An and Zhu, Jing and Cui, Xuehao and Koutra, Danai},
     journal={Advances in Neural Information Processing Systems},
-    volume={38},
+    volume={37},
     year={2024}
 }
 ```
